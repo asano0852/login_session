@@ -49,5 +49,6 @@ Thumbs.db
 /public
 .
 *.js
+/.angular
+*.map
 product
-AuthKey_927P6483KB.p8
